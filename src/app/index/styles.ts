@@ -19,13 +19,13 @@ export const styles = StyleSheet.create({
     fontSize: theme.fonts.size.heading.md,
     fontFamily: theme.fonts.family.regular,
     marginTop: 8,
-    marginBottom: 38,
+    marginBottom: 32,
     color: theme.colors.gray_400,
   },
   ingredients: {
     flexWrap: "wrap",
     flexDirection: "row",
     paddingBottom: 200,
-    gap: 12,
+    gap: 8,
   },
 })
